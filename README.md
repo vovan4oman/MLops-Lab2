@@ -5,7 +5,9 @@
 **Варіант:** 10  
 **Дата:** 14.05.2026
 
-![CI](https://github.com/[ТВІЙ_GITHUB_USERNAME]/[НАЗВА_РЕПО]/actions/workflows/ci.yml/badge.svg)
+https://mlops-lab2-axec.onrender.com/
+
+![CI](https://github.com/vovan4oman/MLops-Lab2/actions/workflows/ci.yml/badge.svg)
 
 ---
 
