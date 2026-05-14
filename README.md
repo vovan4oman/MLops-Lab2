@@ -5,9 +5,8 @@
 **Варіант:** 10  
 **Дата:** 14.05.2026
 
-https://mlops-lab2-axec.onrender.com/
+https://mlops-lab2-axec.onrender.com/docs
 
-![CI](https://github.com/vovan4oman/MLops-Lab2/actions/workflows/ci.yml/badge.svg)
 
 ---
 
